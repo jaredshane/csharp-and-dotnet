@@ -1,0 +1,10 @@
+/Users/jaredfuller/Workspace/csharp/intro/bin/Debug/netcoreapp2.0/intro.deps.json
+/Users/jaredfuller/Workspace/csharp/intro/bin/Debug/netcoreapp2.0/intro.runtimeconfig.json
+/Users/jaredfuller/Workspace/csharp/intro/bin/Debug/netcoreapp2.0/intro.runtimeconfig.dev.json
+/Users/jaredfuller/Workspace/csharp/intro/bin/Debug/netcoreapp2.0/intro.dll
+/Users/jaredfuller/Workspace/csharp/intro/bin/Debug/netcoreapp2.0/intro.pdb
+/Users/jaredfuller/Workspace/csharp/intro/obj/Debug/netcoreapp2.0/intro.csproj.CoreCompileInputs.cache
+/Users/jaredfuller/Workspace/csharp/intro/obj/Debug/netcoreapp2.0/intro.AssemblyInfoInputs.cache
+/Users/jaredfuller/Workspace/csharp/intro/obj/Debug/netcoreapp2.0/intro.AssemblyInfo.cs
+/Users/jaredfuller/Workspace/csharp/intro/obj/Debug/netcoreapp2.0/intro.dll
+/Users/jaredfuller/Workspace/csharp/intro/obj/Debug/netcoreapp2.0/intro.pdb

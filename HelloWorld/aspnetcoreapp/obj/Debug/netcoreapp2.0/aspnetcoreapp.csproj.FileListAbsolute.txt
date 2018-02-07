@@ -1,0 +1,10 @@
+/Users/jaredfuller/Workspace/csharp/HelloWorld/aspnetcoreapp/bin/Debug/netcoreapp2.0/aspnetcoreapp.deps.json
+/Users/jaredfuller/Workspace/csharp/HelloWorld/aspnetcoreapp/bin/Debug/netcoreapp2.0/aspnetcoreapp.runtimeconfig.json
+/Users/jaredfuller/Workspace/csharp/HelloWorld/aspnetcoreapp/bin/Debug/netcoreapp2.0/aspnetcoreapp.runtimeconfig.dev.json
+/Users/jaredfuller/Workspace/csharp/HelloWorld/aspnetcoreapp/bin/Debug/netcoreapp2.0/aspnetcoreapp.dll
+/Users/jaredfuller/Workspace/csharp/HelloWorld/aspnetcoreapp/bin/Debug/netcoreapp2.0/aspnetcoreapp.pdb
+/Users/jaredfuller/Workspace/csharp/HelloWorld/aspnetcoreapp/obj/Debug/netcoreapp2.0/aspnetcoreapp.csproj.CoreCompileInputs.cache
+/Users/jaredfuller/Workspace/csharp/HelloWorld/aspnetcoreapp/obj/Debug/netcoreapp2.0/aspnetcoreapp.AssemblyInfoInputs.cache
+/Users/jaredfuller/Workspace/csharp/HelloWorld/aspnetcoreapp/obj/Debug/netcoreapp2.0/aspnetcoreapp.AssemblyInfo.cs
+/Users/jaredfuller/Workspace/csharp/HelloWorld/aspnetcoreapp/obj/Debug/netcoreapp2.0/aspnetcoreapp.dll
+/Users/jaredfuller/Workspace/csharp/HelloWorld/aspnetcoreapp/obj/Debug/netcoreapp2.0/aspnetcoreapp.pdb
